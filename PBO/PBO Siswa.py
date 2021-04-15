@@ -14,9 +14,9 @@ class Siswa:
 		print("Nama :", self.nama)
 		print("NIS :", self.NIS)
 		
-# Membuat objek pertama dari kelas Karyawan
+# Membuat objek pertama dari kelas Siswa
 siswa1 = Siswa("Nuril Karyamin", 16243)
-# Membuat objek kedua dari kelas Karyawan
+# Membuat objek kedua dari kelas Siswa
 siswa2 = Siswa("Fauzan", 16244)
 
 siswa1.tampilkan_profil()
