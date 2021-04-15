@@ -1,5 +1,5 @@
 class Siswa:
-	'''Dasar kelas untuk semua karyawan'''
+	'''Dasar kelas untuk semua siswa'''
 	jumlah_siswa = 0
 	
 	def __init__(self, nama, NIS):
